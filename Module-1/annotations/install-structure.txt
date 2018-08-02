@@ -1,0 +1,25 @@
+
+INSTALL
+
+- npm init -y
+- npm install react react-dom
+- npm install -D babel-core babel-loader babel-preset-env babel-preset-react webpack webpack-cli
+- create .babelrc
+- .babelrc:
+	{
+   	 "presets": ["env", "react"]
+	}
+- create webpack.config.js
+- npm install -D webpack-dev-server
+
+CSS
+
+- npm install style-loader css-loader -D
+- npm install -D sass-loader
+- npm install node-sass -D
+
+ESLINT
+
+- npm install -D eslint
+- node_modules/.bin/eslint --init
+- npm install babel-eslint
