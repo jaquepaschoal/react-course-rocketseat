@@ -1,0 +1,5 @@
+INIT PROJECT
+- create-react-app module-2
+
+INSTALL STYLED ( elementos estilizados )
+- yarn add styled-components
