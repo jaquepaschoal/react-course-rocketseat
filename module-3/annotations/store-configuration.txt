@@ -1,0 +1,13 @@
+- yarn add redux react-redux
+- src > criar *store* > criar *index.js*
+
+Debug
+
+- https://github.com/infinitered/reactotron/releases
+- yarn add reactotron-react-js reactotron-redux
+- config > reactotron.js
+
+
+Plugin Saga para reactotron
+
+- yarn add reactotron-redux-saga
