@@ -11,7 +11,6 @@ injectGlobal`
   }
 
   body {
-    background: #9b65e5;
     text-rendering: optimizeLegibility !important;
     -webkit-font-smothing: antialiased !important;
     font-family: sans-serif;
